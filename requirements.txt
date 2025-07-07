@@ -1,0 +1,9 @@
+streamlit
+langgraph
+langchain
+langchain-aws
+langchain-core
+pydantic
+python-dotenv
+boto3
+reportlab
